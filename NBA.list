@@ -7,6 +7,7 @@
 # TOTAL: 
 
 DOMAIN-SUFFIX,bitmovin.com
+DOMAIN-SUFFIX,auth.adobe.com
 DOMAIN-SUFFIX,celtra.com
 DOMAIN-SUFFIX,measurement.com
 DOMAIN-SUFFIX,branch.io
