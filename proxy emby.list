@@ -1,0 +1,13 @@
+# NAME: proxy emby servers
+# AUTHOR: 
+# REPO: 
+# UPDATED: 
+# DOMAIN: 
+# DOMAIN-SUFFIX: 
+# TOTAL: 
+DOMAIN-SUFFIX,*.themoviedb.org
+DOMAIN-SUFFIX,*.tmdb.org
+DOMAIN-SUFFIX,*.thetvdb.com
+DOMAIN-SUFFIX,*.fanart.tv
+
+
