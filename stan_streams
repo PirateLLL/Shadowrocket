@@ -5,12 +5,10 @@
 # DOMAIN: 
 # DOMAIN-SUFFIX: 
 # TOTAL: 
-
-DOMAIN-KEYWORD,stan
+DOMAIN-SUFFIX,stan.akamaized.net
 DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN-SUFFIX,cdn-akm.me
 DOMAIN,streamcoimg-a.akamaihd.net
-DOMAIN-SUFFIX,stan.akamaized.net
 DOMAIN,nqs.nice264.com
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,leanplum.com
