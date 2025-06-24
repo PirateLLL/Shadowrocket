@@ -6,6 +6,7 @@
 # DOMAIN-SUFFIX: 
 # TOTAL: 
 DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,stan.video
 DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN-SUFFIX,cdn-akm.me
