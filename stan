@@ -6,6 +6,7 @@
 # DOMAIN-SUFFIX: 
 # TOTAL: 
 DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,stan.video
 DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN-SUFFIX,cdn-akm.me
 DOMAIN,nqs.nice264.com
@@ -13,3 +14,4 @@ DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,leanplum.com
 DOMAIN-SUFFIX,stan.com.au
 DOMAIN-KEYWORD,youboranqs
+DOMAIN-SUFFIX,drmtoday.com
