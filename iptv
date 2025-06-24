@@ -9,7 +9,8 @@
 DOMAIN-SUFFIX,ultratv.one
 DOMAIN-SUFFIX,redatvgold.com
 DOMAIN-KEYWORD,ultratv
-DOMAIN-KEYWORD,redatvgold - IP-CIDR,154.0.0.0/12,no-resolve
+DOMAIN-KEYWORD,redatvgold 
+  - IP-CIDR,154.0.0.0/12,no-resolve
   - IP-CIDR,102.176.0.0/12,no-resolve
   - IP-CIDR,154.192.0.0/12,no-resolve
   - IP-CIDR,38.16.0.0/12,no-resolve
